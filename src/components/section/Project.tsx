@@ -12,6 +12,22 @@ const projects = [
     altText: "Portfolio",
   },
   {
+    title: "Sport On",
+    description: "E-Commerse Website",
+    imageUrl: "/Sporton.png",
+    previewLink: "https://sporton-fe-zeta.vercel.app/",
+    repoLink: "https://github.com/faydev-organization/faydev-portfolio",
+    altText: "Sporton Website",
+  },
+  {
+    title: "Docter Stream Executive Redm",
+    description: "Website Info Stream for executive",
+    imageUrl: "/exe.png",
+    previewLink: "https://www.doctorexecutiveredm.my.id/",
+    repoLink: "https://github.com/faydev-organization/faydev-portfolio",
+    altText: "Sporton Website",
+  },
+  {
     title: "Fay AI Story Builder",
     description: "AI-based story builder",
     imageUrl: "/ai1.png",

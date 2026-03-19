@@ -34,7 +34,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <div className="flex-shrink-0">
           <a href="/" className="text-white text-2xl font-bold">
-            Fay
+            FH
             <span className="border-2 shadow-custom-white mx-1 px-2 py-1 rounded-lg text-slate-800 bg-white border-white">
               DEV
             </span>
