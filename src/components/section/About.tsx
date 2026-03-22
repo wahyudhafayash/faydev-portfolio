@@ -12,11 +12,14 @@ const slugs = [
   "nextdotjs",
   "prisma",
   "vercel",
+  "cypress",
+  "docker",
   "git",
   "github",
   "visualstudiocode",
   "postgresql",
   "firebase",
+  "amazonaws",
 ];
 
 const Aboutpage = () => {
